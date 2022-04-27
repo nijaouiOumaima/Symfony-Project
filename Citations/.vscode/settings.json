@@ -1,0 +1,8 @@
+{
+    "some_setting": custom_value,
+  
+  
+    "files.associations": {
+        "*.html.twig": "html"
+    }
+  }
